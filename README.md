@@ -1,6 +1,14 @@
 # LineFollowerArduino 
 English Below
 > Link youtube [here](https://youtu.be/JMyljmJP1Jk)
+# Phần cứng gồm có:
+- 1 x cảm biến dò line QTR 5 RC 
+- 1 x Arduino Nano
+- 2 x GA 12 - N20 - 100 RPm
+- 2 x 43 mm Rubber Tire D-axis (Suitable for Ga12 Motor shaft)
+- 1 x L298N dual  H - bridge
+- 1 x multi-directional wheel
+- 3 x 3.7V 18650 Li-ion battery
 # Bước 1. Calibration 
 Bước calib trước khi chạy là quan trọng, do đó cần phải calib cảm biến trước. 
 Trước tiên cho
